@@ -23,6 +23,8 @@ class _EcologicalFootprintCalculatorState
   bool _avoidPlasticsCheckbox = false;
   bool _sustainableProductsCheckbox = false;
 
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
