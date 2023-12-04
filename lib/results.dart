@@ -21,6 +21,7 @@ class NavigationButton extends StatelessWidget {
   }
 }
 
+
 class EcologicalFootprintAnalysisApp extends StatelessWidget {
   final List<String> imagePaths = [
     'assets/energy.png',
