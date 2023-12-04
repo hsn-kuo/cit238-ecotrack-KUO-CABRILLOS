@@ -49,6 +49,7 @@ class EcologicalFootprintAnalysisApp extends StatelessWidget {
     '2.5 Earths',
   ];
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

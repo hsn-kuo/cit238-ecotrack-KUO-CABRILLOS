@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'login.dart'; // Import your login screen file
 
+
 class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
