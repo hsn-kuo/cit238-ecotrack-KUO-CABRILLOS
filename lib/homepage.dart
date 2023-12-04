@@ -27,6 +27,7 @@ class WelcomePage extends StatelessWidget {
             ),
           ),
 
+
 // Darkened overlay
           Positioned.fill(
             child: Container(
