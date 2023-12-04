@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class WelcomePage extends StatelessWidget {
   // Define text styles for consistency
   final TextStyle headerTextStyle = TextStyle(

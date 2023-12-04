@@ -2,11 +2,13 @@ import 'package:flutter/material.dart';
 import 'results.dart';
 
 
+
 class EcologicalFootprintCalculator extends StatefulWidget {
   @override
   _EcologicalFootprintCalculatorState createState() =>
       _EcologicalFootprintCalculatorState();
 }
+
 
 class _EcologicalFootprintCalculatorState
     extends State<EcologicalFootprintCalculator> {
@@ -20,6 +22,8 @@ class _EcologicalFootprintCalculatorState
   bool _recycleCompostCheckbox = false;
   bool _avoidPlasticsCheckbox = false;
   bool _sustainableProductsCheckbox = false;
+
+
 
   @override
   Widget build(BuildContext context) {
