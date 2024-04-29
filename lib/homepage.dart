@@ -129,7 +129,7 @@ class WelcomePage extends StatelessWidget {
                   },
                   child: Text('Calculate Footprint'),
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.green, // Set button color to green
+                    backgroundColor: Colors.green, // Set button color to green
                   ),
                 ),
               ),
@@ -290,7 +290,7 @@ class WelcomePage extends StatelessWidget {
               },
               child: Text('Share Your Stories Here'),
               style: ElevatedButton.styleFrom(
-                primary: Colors.green, // Set button color to green
+                backgroundColor: Colors.green, // Set button color to green
               ),
             ),
           ),

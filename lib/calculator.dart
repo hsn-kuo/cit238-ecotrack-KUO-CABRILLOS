@@ -415,7 +415,7 @@ class _EcologicalFootprintCalculatorState
                   },
                   child: Text('Calculate Footprint'),
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.green,
+                    backgroundColor: Colors.green,
                   ),
                 ),
               ),

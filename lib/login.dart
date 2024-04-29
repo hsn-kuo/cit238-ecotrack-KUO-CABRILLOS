@@ -75,7 +75,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     );
                   },
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.green, // Change button color
+                    backgroundColor: Colors.green, // Change button color
                   ),
                   child: Text('Login'),
                 ),
@@ -87,7 +87,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   // Add logic for handling forgot password
                 },
                 style: TextButton.styleFrom(
-                  primary: const Color.fromARGB(
+                  foregroundColor: const Color.fromARGB(
                       255, 255, 255, 255), // Change text color
                 ),
                 child: Text('Forgot your password?'),
